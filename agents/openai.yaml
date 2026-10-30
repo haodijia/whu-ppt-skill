@@ -1,4 +1,4 @@
 interface:
   display_name: "WHU 学术 PPT"
-  short_description: "从研究材料规划页型、组织论证、补充图片并制作带讲解联动动画的武大演示文稿"
-  default_prompt: "使用 $whu-ppt，根据提供的材料梳理论证、选择页型并制作武汉大学风格的演示文稿。"
+  short_description: "参照完整公开示例组织学术图文，主动获取图片，制作武大风格汇报"
+  default_prompt: "使用 $whu-ppt，根据提供材料和完整公开示例，提取图表、组织问题与证据，制作武汉大学风格的学术演示文稿。"
